@@ -3,8 +3,10 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+https://gh-proxy.com/https://iptv-org.github.io/iptv/index.m3u
 
 
 [WHITELIST]
