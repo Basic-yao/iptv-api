@@ -7,7 +7,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/head
 https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://gh-proxy.com/https://iptv-org.github.io/iptv/index.m3u
-
+https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/https_cdn.qd.je_live.m3u.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
