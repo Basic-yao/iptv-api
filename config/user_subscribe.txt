@@ -3,11 +3,35 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+# ---- 中文综合聚合 ----
+https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+
+# ---- vbskycn 镜像（通过 gh-proxy 拉，避免 raw 被限）----
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+
+# 中国
+https://iptv-org.github.io/iptv/countries/cn.m3u
+# 中文语言
+https://iptv-org.github.io/iptv/languages/zho.m3u
+# 新闻/体育/电影/纪录片
+https://iptv-org.github.io/iptv/categories/news.m3u
+https://iptv-org.github.io/iptv/categories/sports.m3u
+https://iptv-org.github.io/iptv/categories/movies.m3u
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+# 其他国示例
+https://iptv-org.github.io/iptv/countries/us.m3u
+https://iptv-org.github.io/iptv/countries/hk.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://iptv-org.github.io/iptv/countries/jp.m3u
+https://iptv-org.github.io/iptv/countries/kr.m3u
+
+https://aptv.pro/all.m3u
+http://47.94.6.170/TV/tv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-https://gh-proxy.com/https://iptv-org.github.io/iptv/index.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/https_cdn.qd.je_live.m3u.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
