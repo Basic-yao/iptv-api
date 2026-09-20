@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
+  <a href="https://github.com/Guovin/iptv-api/releases/latest" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/v/release/guovin/iptv-api?label=Version" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.14-47c219?label=Python" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
+  <a href="https://github.com/Guovin/iptv-api/releases/latest" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total?label=GUI%20Downloads" />
   </a>
   <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
@@ -32,7 +32,7 @@
   <a href="https://github.com/Guovin/iptv-api/stargazers">
     <img src="https://img.shields.io/github/stars/guovin/iptv-api?label=Stars" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
+  <a href="https://github.com/Guovin/iptv-api/fork" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/forks/guovin/iptv-api?label=Forks" />
   </a>
 </p>
@@ -153,7 +153,7 @@
 | app_port                 | Advanced compatibility setting: internal Flask API port. Normally do not change or use it as the user-facing port.                                                                                                                                                                                                                          | 5180                                     |
 | public_scheme            | Advanced compatibility setting: legacy public scheme, used only when `public_url` is empty.                                                                                                                                                                                                                                                 | http                                     |
 | public_domain            | Advanced compatibility setting: legacy public host, used only when `public_url` is empty; defaults to the local IP.                                                                                                                                                                                                                         | 127.0.0.1                                |
-| cdn_url                  | CDN proxy address(es): outside Actions they accelerate subscriptions, EPG, and channel logos; during Actions publishing, the first address accelerates GitHub Pages results. The CDN must accept complete `github.io` URLs. Multiple comma-separated values are supported. |                                          |
+| cdn_url                  | CDN proxy address(es) for supported resources such as subscriptions, EPG, and channel logos. GitHub Actions does not use this setting to accelerate published Pages results. Multiple comma-separated values are supported. |                                          |
 | http_proxy               | HTTP proxy address used only to fetch subscription sources and EPG data; speed tests, media probes, and screenshots remain direct                                                                                                                                                                                                            |                                          |
 | open_local               | Enable local source function, will use the data in the template file and the local source file (`local.txt`).                                                                                                                                                                                                                               | True                                     |
 | open_subscribe           | Enable subscription source function.                                                                                                                                                                                                                                                                                                        | True                                     |
@@ -243,22 +243,19 @@ iptv-api/                  # Project root directory
 ### Workflow
 
 > [!WARNING]
-> GitHub Actions is intended only for occasional manual generation. Results are published to the fixed
-> `playlist-latest` prerelease and through a Pages artifact, and are no longer committed to Git. Legacy
+> GitHub Actions is intended only for occasional manual generation. Results are published through a Pages artifact
+> and a separate prerelease for every run, and are no longer committed to Git. Legacy
 > `raw.githubusercontent.com/.../output/...` URLs no longer update. Use Docker, the command line, or the GUI for
 > scheduled runs.
 
-After forking, select `GitHub Actions` under `Settings → Pages`, then manually run `Generate playlist manually`. Pages
-URLs are intended for player subscriptions, while the Release remains a download and fallback endpoint. Neither path
-creates Git commits.
+After <a href="https://github.com/Guovin/iptv-api/fork" target="_blank" rel="noopener noreferrer">forking this project</a>, select `GitHub Actions` under `Settings → Pages`, then manually run `Generate playlist manually`.
+For online player use, open the Pages page and use the applicable result address. Release URLs are intended for
+downloading and saving result files. Neither path creates Git commits.
 
 ```text
 https://your-github-username.github.io/repository-name/result.m3u
 https://your-github-username.github.io/repository-name/result.txt
 ```
-
-If `cdn_url` supports proxying complete `github.io` URLs, the workflow summary also provides accelerated links and the
-M3U points its EPG URL at that accelerated endpoint. Direct Pages links remain available as a fallback.
 
 See the [detailed tutorial](./docs/tutorial_en.md#workflow-deployment) for setup and migration steps.
 
