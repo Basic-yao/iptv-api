@@ -13,3 +13,4 @@ r.jdshipin.com
 cdn.qd.je
 45.192.97.170
 tv.iill.top
+10.fast.hidns.vip
