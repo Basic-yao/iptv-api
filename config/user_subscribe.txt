@@ -14,15 +14,11 @@ https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
-https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://supprise0901.github.io/TVBox_live/live.txt
-http://wangziduoqing.com/yuan/zb.txt
 
 # ---- 📅一个月内（4个） ----
-https://aptv.pro/all.m3u
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 # ---- 📆三个月内（2个） ----
 http://47.94.6.170/TV/tv.m3u
