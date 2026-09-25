@@ -8,7 +8,6 @@
 # 可用总数: 105
 
 # ---- 🆕一周内（18个） ----
-http://1.94.31.214/live/live9/dgtv.txt
 http://1.94.31.214/live/live9/dgtv2026.php
 https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
 https://gitee.com/hw2837/iptv/raw/master/iptv
