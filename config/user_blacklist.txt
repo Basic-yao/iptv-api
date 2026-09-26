@@ -25,3 +25,6 @@ cdn6.cc.cd
 live.ottiptv.cc
 huya/26355860
 yy/1353873252
+31.43.191.125:8080
+154.12.37.196:5555
+serv00.bkpcp.top
