@@ -23,4 +23,4 @@
 #广东移动
 #gzgxzm.dpdns.org:10086
 #咪咕1080P
-smzb.bypbwxx.top
+#smzb.bypbwxx.top
