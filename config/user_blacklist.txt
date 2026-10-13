@@ -57,6 +57,7 @@ turnerlive.warnermediacdn.com
 # 广告
 207.56.13.146:81
 bztv.tvbus.cc:8081
+74.91.26.218:82
 
 #中学生混进CETV-3
 223.86.170.98:4500/rtp/239.11.0.247:5140
