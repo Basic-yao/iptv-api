@@ -8,6 +8,7 @@ https://tv.iptv2026.cc.cd/iptv.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 #有效：245个，广东移动
 https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.txt
+https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
 #有效：0个
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
