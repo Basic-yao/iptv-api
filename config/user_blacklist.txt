@@ -44,8 +44,12 @@ playtv-live.ifeng.com
 # 无画面
 cfss.cc/cdn/dy/diyicaijing.flv
 kylintv.tv
+211.72.174.95:8138
+
 # 频道结果会全跳过
 kkk.jjjj.jiduo.me
+43.249.195.13:10213
+
 # 错误的都市剧场
 satellitepull.cnr.cn
 111.0.115.129:8081/live/222ztxw
