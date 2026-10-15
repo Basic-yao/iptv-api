@@ -3,33 +3,32 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://tv.iptv2026.cc.cd/iptv.m3u
 #有效：123个，央卫为主
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 #有效：245个，广东移动
-https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.txt
-https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
+#https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.txt
+#https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
 #有效：0个
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
-https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
-https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
-https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
+#https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+#https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
+#https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
+#https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
 #太多耗时！
-https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
+#https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
 #4K超高清
-https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
-https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
+#https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+#https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
 #港澳台多
-https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
-https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv6/result.m3u
-https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
+#https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
+#https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv6/result.m3u
+#https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 #有效：0个
-https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
+#https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 #有效：73个，央卫广
-https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+#https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 #歌曲演唱会
-https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
-
+#https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
+#https://tv.iptv2026.cc.cd/iptv.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
