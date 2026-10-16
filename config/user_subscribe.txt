@@ -26,10 +26,10 @@
 #https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 #可用频道：84个，4K6央29卫32YGAT14，用时6分钟；很卡，基本不能用
 #https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
-#可用频道：84个，4K6央29卫32YGAT14，用时6分钟；很卡，基本不能用
-https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+#可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
+#https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 #歌曲演唱会
-#https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
 #https://tv.iptv2026.cc.cd/iptv.m3u
 
 [WHITELIST]
