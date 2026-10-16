@@ -7,8 +7,10 @@
 #https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 #可用频道：118个，粤港台69个，央卫少，用时10分钟；
 #https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
-https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
-#https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
+#可用频道：97个，央卫1080为主，点播速度快，用时7分钟；
+#https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
+#可用频道：118个，粤港台69个，央卫少，用时10分钟；
+https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
 #https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
 #太多耗时！
 #https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
