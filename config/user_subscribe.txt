@@ -17,10 +17,10 @@
 #https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
 #可用频道：390个，4K30央163卫169YGAT6，用时14分钟；
 #https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
-#可用频道：390个，4K30央163卫169YGAT6，用时14分钟；
-https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
-#港澳台多
-#https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
+#可用频道：163个，4K10央79卫59YGAT4，用时8分钟；
+#https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
+#可用频道：163个，4K10央79卫59YGAT4，用时8分钟；
+https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
 #https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv6/result.m3u
 #https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 #有效：0个
