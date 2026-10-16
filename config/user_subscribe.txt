@@ -28,9 +28,10 @@
 #https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 #可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
 #https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-#歌曲演唱会
-https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
-#https://tv.iptv2026.cc.cd/iptv.m3u
+#可用频道：236个，4K13央42卫71YGAT38，音乐42，用时33分钟；高清可用速度快
+#https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
+#可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
+https://tv.iptv2026.cc.cd/iptv.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
