@@ -11,10 +11,10 @@
 #https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 #可用频道：79个，央卫正屏为主，左右在黑边，用时6分钟；
 #https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
-#可用频道：118个，粤港台69个，央卫少，用时10分钟；
-https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
-#太多耗时！
-#https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
+#可用频道：70个，央21卫22，用时6分钟；
+#https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
+#可用频道：70个，央21卫22，用时6分钟；
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
 #4K超高清
 #https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 #https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
