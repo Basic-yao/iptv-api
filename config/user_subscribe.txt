@@ -3,11 +3,11 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-#可用频道：371个，4K/1080为主，用时23分
+#可用频道：371个，4K全，央卫1080为主，用时23分钟；
 #https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
-#有效：0个
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
-#https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
+#可用频道：118个，粤港台69个，央卫少，用时10分钟；
+#https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 #https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
 #https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
 #太多耗时！
