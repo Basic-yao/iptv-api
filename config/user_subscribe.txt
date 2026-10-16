@@ -3,10 +3,10 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-#有效：123个，央卫为主
-https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
+#可用频道：371个，4K/1080为主，用时23分
+#https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 #有效：245个，广东移动
-#https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.txt
+https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.txt
 #https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
 #有效：0个
 #https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
