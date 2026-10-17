@@ -4,9 +4,9 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 #可用频道：371个，4K全，央卫1080为主，用时23分钟；
-#https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
+https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 #可用频道：118个，粤港台69个，央卫少，用时10分钟；
-#https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 #可用频道：97个，央卫1080为主，点播速度快，用时7分钟；
 #https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 #可用频道：79个，央卫正屏为主，左右在黑边，用时6分钟；
@@ -16,7 +16,7 @@
 #可用频道：518个，4K20央94卫157YGAT141，用时34分钟；
 #https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
 #可用频道：390个，4K30央163卫169YGAT6，用时14分钟；
-#https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 #可用频道：163个，4K10央79卫59YGAT4，正屏左右黑框多，用时8分钟；
 #https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
 #可用频道：191个，4K11央81卫35YGAT48，用时6分钟；卡，画质普遍720
@@ -29,9 +29,7 @@
 #可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
 #https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 #可用频道：236个，4K13央42卫71YGAT38，音乐42，用时33分钟；高清可用速度快
-#https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
-#可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
-https://tv.iptv2026.cc.cd/iptv.m3u
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
