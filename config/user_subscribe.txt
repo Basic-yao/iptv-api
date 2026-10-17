@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/l
 #可用频道：70个，央21卫22，用时6分钟；
 #https://raw.githubusercontent.com/fjcq168/iptv-api/refs/heads/master/output/result.m3u
 #可用频道：518个，4K20央94卫157YGAT141，用时34分钟；
-#https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
 #可用频道：390个，4K30央163卫169YGAT6，用时14分钟；
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 #可用频道：163个，4K10央79卫59YGAT4，正屏左右黑框多，用时8分钟；
