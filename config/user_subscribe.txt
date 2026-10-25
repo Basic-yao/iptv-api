@@ -6,7 +6,7 @@
 #可用频道：371个，4K全，央卫1080为主，用时23分钟；
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 #可用频道：118个，粤港台69个，央卫少，用时10分钟；
-#https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 #可用频道：97个，央卫1080为主，点播速度快，用时7分钟；
 https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 #可用频道：79个，央卫正屏为主，左右在黑边，用时6分钟；
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 #可用频道：84个，4K6央29卫32YGAT14，用时6分钟；很卡，基本不能用
 #https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 #可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
-#https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 #可用频道：236个，4K13央42卫71YGAT38，音乐42，用时33分钟；高清可用速度快
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
 
