@@ -3,6 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
 #可用频道：371个，4K全，央卫1080为主，用时23分钟；
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 #可用频道：118个，粤港台69个，央卫少，用时10分钟；
