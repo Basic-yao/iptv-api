@@ -50,13 +50,14 @@ kylintv.tv
 kkk.jjjj.jiduo.me
 43.249.195.13:10213
 
-# 错误的都市剧场
+# 错误的频道
 satellitepull.cnr.cn
 111.0.115.129:8081/live/222ztxw
 d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 turnerlive.warnermediacdn.com
 61.221.215.25:8800/hls/41/index.m3u8
 222.128.55.152:9080/live/fc.m3u8
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 
 # 广告
 207.56.13.146:81
