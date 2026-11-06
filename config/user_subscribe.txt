@@ -4,6 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
+https://1905-agq3adusodwja5odahmow5mflq.instabox.tech/1233%3211/
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 #可用频道：371个，4K全，央卫1080为主，用时23分钟；
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 #可用频道：118个，粤港台69个，央卫少，用时10分钟；
@@ -11,7 +13,7 @@ https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/l
 #可用频道：97个，央卫1080为主，点播速度快，用时7分钟；
 https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 #可用频道：79个，央卫正屏为主，左右在黑边，用时6分钟；
-https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
+#https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
 #可用频道：70个，央21卫22，用时6分钟；
 https://raw.githubusercontent.com/fjcq168/iptv-api/refs/heads/master/output/result.m3u
 #可用频道：518个，4K20央94卫157YGAT141，用时34分钟；
@@ -26,13 +28,11 @@ https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ip
 #可用频道：192个，4K3央19卫27YGAT15，用时10分钟；很卡，基本不能用
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 #可用频道：84个，4K6央29卫32YGAT14，用时6分钟；很卡，基本不能用
-https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
+#https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 #可用频道：169个，4K7央48卫20YGAT46，用时12分钟；几乎都打不开
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 #可用频道：236个，4K13央42卫71YGAT38，音乐42，用时33分钟；高清可用速度快
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
-https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
-#https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
 
 
 [WHITELIST]
