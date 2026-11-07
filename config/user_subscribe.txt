@@ -4,7 +4,6 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-https://1905-agq3adusodwja5odahmow5mflq.instabox.tech/1233%3211/
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 #可用频道：371个，4K全，央卫1080为主，用时23分钟；
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
