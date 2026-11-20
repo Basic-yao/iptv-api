@@ -59,7 +59,7 @@ turnerlive.warnermediacdn.com
 222.128.55.152:9080/live/fc.m3u8
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-
+fast.hidns.vip/163189/now
 
 # 广告
 207.56.13.146:81
