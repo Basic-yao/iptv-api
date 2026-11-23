@@ -46,7 +46,6 @@ cfss.cc/cdn/dy/diyicaijing.flv
 kylintv.tv
 211.72.174.95:8138
 app.kds666.top:5566
-cc.123.rr.kg
 
 # 频道结果会全跳过
 kkk.jjjj.jiduo.me
