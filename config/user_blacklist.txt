@@ -62,13 +62,15 @@ turnerlive.warnermediacdn.com
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 fast.hidns.vip/163189/now
-
+jy.bhzz.today:2026/YY1
+cc.123.rr.kg/163189/fhhk
 
 # 广告
 207.56.13.146:81
 bztv.tvbus.cc:8081
 74.91.26.218:82
 173.208.212.130:8181
+110.40.170.5:8890/diai
 
 #中学生混进CETV-3
 223.86.170.98:4500/rtp/239.11.0.247:5140
